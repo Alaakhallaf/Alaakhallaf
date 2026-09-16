@@ -1,13 +1,17 @@
 # Hi there, I'm Alaa Khallaf 👋 
 ### Front-End Web Developer | Angular & TypeScript Specialist
+🎓 **Computer & Artificial Intelligence Graduate**
 
-A passionate Front-End Developer with experience in building scalable, responsive web applications using **Angular**, **RxJS**, and modern UI frameworks. I enjoy turning complex designs into seamless digital experiences.
+A passionate Software Engineer with a strong CS background, specialized in building scalable, responsive web applications using **Angular**, **RxJS**, and modern UI frameworks. 
+
+💡 **Mindset & Approach:**  
+I focus heavily on **Software Architecture**, **Clean Code**, and maintainable design patterns—approaching development as an **Engineer** who designs robust systems, not just a coder who writes scripts.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**Frontend:**
+**Core Frontend:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,15 +21,18 @@ A passionate Front-End Developer with experience in building scalable, responsiv
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend:**
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) *(Basics & Currently Learning 🚀)*
-
 **Tools & Workflow:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Current Focus & Continuous Learning
+- ⚙️ **Backend:** Expanding knowledge in **.NET Core & C#** to build full-stack capabilities.
+- 🤖 **AI & Machine Learning:** Exploring AI integration and fundamental ML concepts.
 
 ---
 
